@@ -9,11 +9,11 @@
     height: 50%;   
   }
   
-  li {
+li {
     float: left;
   }
   
-  li a {
+li a {
     display: block;
     color: white;
     text-align: center;
@@ -21,23 +21,23 @@
     text-decoration: none;
   }
   
-  li a:hover {
+li a:hover {
     background-color: #111;
   }
 
-  .tableaudata{
+.tableaudata{
     margin: 0 auto;
     width: 80%;
     height: 50%; 
   }
 
-  .pagefooter{
+.pagefooter{
     margin: 0 auto;
     width: 80%;
     height: 50%; 
     text-align:center;
   }
-  .tableau{
+.tableau{
     position:relative;
     margin-left:20%;
     margin-right:20%;
@@ -47,14 +47,14 @@
 
   }
 
-  .tabby{
+.tabby{
     text-align: center;
     margin-left:20%;
     margin-right:20%;
   }
   
 
-  .backcolor{
+.backcolor{
     background-color: aliceblue;
   }
 
