@@ -2,5 +2,20 @@ body{
     background-color: aliceblue;
 }
 
+.fancystuff{
+    text-decoration: underline;
+}
+
+.epicstuff{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.supercrazy{
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+
+
 
 
