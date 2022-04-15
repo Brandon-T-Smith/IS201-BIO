@@ -7,11 +7,11 @@
     margin: 0 auto;
     width: 80%;
     height: 50%;   
-  }
+}
   
 li {
     float: left;
-  }
+}
   
 li a {
     display: block;
@@ -19,24 +19,20 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+}
   
 li a:hover {
     background-color: #111;
-  }
+}
 
-.tableaudata{
-    margin: 0 auto;
-    width: 80%;
-    height: 50%; 
-  }
 
 .pagefooter{
     margin: 0 auto;
     width: 80%;
     height: 50%; 
     text-align:center;
-  }
+}
+
 .tableau{
     position:relative;
     margin-left:20%;
@@ -45,13 +41,13 @@ li a:hover {
     max-height:100%;
     background-color: aliceblue;
 
-  }
+}
 
 .tabby{
     text-align: center;
     margin-left:20%;
     margin-right:20%;
-  }
+}
   
 
 .backcolor{
